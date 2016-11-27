@@ -1,2 +1,5 @@
 # Stanford-Algorithms-library
-Collection of exercises and useful algorithms from Stanford Coursera Course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+
+My practice and useful algorithms
+
+Stanford Coursera Course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
